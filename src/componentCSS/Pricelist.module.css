@@ -1,0 +1,21 @@
+.amt{
+    min-height: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.amt2{
+    min-height: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.topAmt{
+    min-height: 45px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
