@@ -110,6 +110,8 @@ export default function PriceList({ options, rate, type, rateD, max, min }) {
               <Select
                 className="mt-1"
                 options={options}
+                isSearchable={false}
+                arrowRenderer={null}
                 defaultValue={options[0]}
                 onChange={setSelectedOption}
               />

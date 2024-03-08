@@ -37,6 +37,8 @@ export default function Monetisation({ optionM1, optionM2, type, }) {
                         <div style={{ borderLeft: "1px solid black" }} className={CSSP.amt}>
                             <Select className='mt-1'
                                 options={optionM1}
+                                isSearchable={false}
+                                arrowRenderer={null}
                                 defaultValue={optionM1[0]}
                                 onChange={setSelectedOption1}
                             />
@@ -45,6 +47,8 @@ export default function Monetisation({ optionM1, optionM2, type, }) {
                         <div style={{ borderLeft: "1px solid black" }} className={CSSP.amt}>
                             <Select className='mt-1'
                                 options={optionM2}
+                                isSearchable={false}
+                                arrowRenderer={null}
                                 defaultValue={optionM2[0]}
                                 onChange={setSelectedOption2}
                             />
