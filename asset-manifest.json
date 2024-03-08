@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RazerX/static/css/main.1d4adb11.css",
+    "main.js": "/RazerX/static/js/main.650338f4.js",
+    "static/js/453.7bbf0e0b.chunk.js": "/RazerX/static/js/453.7bbf0e0b.chunk.js",
+    "index.html": "/RazerX/index.html",
+    "main.1d4adb11.css.map": "/RazerX/static/css/main.1d4adb11.css.map",
+    "main.650338f4.js.map": "/RazerX/static/js/main.650338f4.js.map",
+    "453.7bbf0e0b.chunk.js.map": "/RazerX/static/js/453.7bbf0e0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4adb11.css",
+    "static/js/main.650338f4.js"
+  ]
+}
